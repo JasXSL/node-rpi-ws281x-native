@@ -1,5 +1,9 @@
 # control ws281x-LEDs with node.js
 
+## Fork notes:
+
+* Removed gamma correction so you can use the full 8 bit resolution
+
 > if you happen to know C++ and node/iojs/V8, I would really appreciate any help 
 > and feedback on this module.
 > There is certainly lots of room for improvement.
